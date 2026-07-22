@@ -1,1 +1,3 @@
-# large-angle-pendulum
+# The Large-Angle Pendulum
+
+This repository brings together two related pre-university projects exploring the large-angle pendulum from different angles: a physics extended essay investigating the problem experimentally and computationally, and a math internal assessment digging into the elliptic integrals that fall out of the theory. The physics side is what sparked the curiosity in the first place — while studying SHM, I noticed the period formula relied on a small-angle approximation, which led to the experiment and simulation in `physics-ee/`. That same investigation showed the period at larger angles depends on elliptic integrals, which is what `math-ia/` derives and explores in more depth. These were both done before university, but they're projects I still look back on fondly.
